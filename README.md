@@ -6,6 +6,13 @@ This project evaluates The Recording Academy's February 2022 strategic decision 
 
 ---
 
+## 📊 View This Analysis
+
+- **GitHub Repository:** [grammys-website-analysis](https://github.com/rasumeng/Grammys-Website-Analysis) - Full code and documentation
+- **Interactive Kaggle Notebook:** [Website Performance Analytics: Grammy Awards Platform Split Strategy](https://www.kaggle.com/code/robertasumeng/website-performance-analytics-grammy-awards) - Explore visualizations and run cells interactively
+
+---
+
 ## Key Findings
 
 ### 1. **Extreme Event-Driven Traffic Concentration**
