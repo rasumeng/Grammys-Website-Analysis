@@ -58,7 +58,7 @@ Compared to American Music Awards (industry benchmark):
 ## Project Structure
 
 ### Core Analysis
-- **`Analyzing-Website-Performance-Grammys copy.ipynb`** - Complete analytical notebook with data exploration, visualizations, and findings
+- **`grammys-analysis.ipynb`** - Complete analytical notebook with data exploration, visualizations, and findings
 
 ### Data Files  
 - `grammy_live_web_analytics.csv` - Daily traffic before/after Feb 1, 2022 organizational split
@@ -80,7 +80,7 @@ pip install pandas plotly jupyter
 ### Launch Analysis
 ```bash
 jupyter notebook
-# Open: Analyzing-Website-Performance-Grammys copy.ipynb
+# Open: grammys-analysis.ipynb
 ```
 
 All data files are automatically loaded from the `datasets/` folder.
